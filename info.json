@@ -1,0 +1,13 @@
+{
+  "name": "Shruti Narayan",
+  "title": "Full Stack Developer",
+  "skills": {
+    "HTML": 85,
+    "CSS": 85,
+    "JavaScript": 80,
+    "Python": 88,
+    "Java": 90,
+    "C++": 70,
+    "MySQL": 85
+  }
+}
